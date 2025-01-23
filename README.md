@@ -23,9 +23,9 @@ Navbar for Our Games section
 
 Here's a walkthrough of implemented features:
 
-<a href = "https://www.loom.com/share/0216ff4cfa89466db89079b5dc490fcc?sid=4670ba45-2010-4100-85f6-8444ecce886f"></a>
+<img src='https://i.imgur.com/jWSVxGp.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 <!-- Replace this with whatever GIF tool you used! -->
-Video created with Loom
+Gif created with ScreenToGif
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
